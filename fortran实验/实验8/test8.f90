@@ -151,6 +151,4 @@ Subroutine Write_outputfile(output_file,output,point_x,line_y,Xmin,Xmax,Ymin,Yma
     end do
     close(40)  ! 关闭输出文件
 End Subroutine  ! 子程序结束
-    end do
-    close(40)
-End Subroutine
+    
